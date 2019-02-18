@@ -42,10 +42,11 @@ For those who want to try to make their own theme, here are some usefull links:
 ___
   
 If you want to further customize your theme, I suggest going into your processing folder and looking at 
-  processing-3.4>modes>java>keywords.txt
-    - With this file, you can basically create a new colour for every function if you wanted.
-  processing-3.4>lib>defaults.txt
-    -Good file for learning the basics
+  processing-3.4>modes>java>keywords.txt  
+  With this file, you can basically create a new colour for every function if you wanted.
+  
+  processing-3.4>lib>defaults.txt  
+  Good file for learning the basics
 ___
 Thanks for reading, a little thing for those that used other languages before.
 In the preferences.txt file, there is a setting called editor.completion.auto_close.
