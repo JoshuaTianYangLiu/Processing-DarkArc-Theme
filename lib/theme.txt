@@ -93,7 +93,7 @@ editor.gradient.bottom = #010305
 
 # highlight for the current line
 #editor.linehighlight.color=#e2e2e2
-editor.linehighlight.color=#2e3340
+editor.linehighlight.color=#fd971f
 # highlight for the current line
 editor.linehighlight=true
 
